@@ -12,7 +12,7 @@ Input/Output unit:
 
 ![image](https://github.com/fanboys2077/-final_project/blob/main/messageImage_1704354149012.jpg)
 
-指撥開關，1為開始遊戲，0為reset遊戲
+指撥開關，0為開始遊戲，1為reset遊戲
 
 ![image](https://github.com/fanboys2077/-final_project/blob/main/messageImage_1704354034458.jpg)
 
